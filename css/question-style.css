@@ -1,5 +1,13 @@
+
+#heading {
+  text-align: center;
+  color: orange;
+  
+}
+
 .theQuiz  {
-   color: blue;
+  color: blue;
+  text-align: left;
 }
 
 #img-1 {
