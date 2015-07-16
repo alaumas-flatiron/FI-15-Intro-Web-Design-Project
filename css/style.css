@@ -10,3 +10,15 @@
   font-family: 'Roboto', sans-serif;
   font color: blue;
 }
+
+.slider {
+  width: auto;
+  height: auto;
+  overflow-x: scroll;
+}
+.slide {
+  float: left;
+  width: auto;
+  height: auto;
+}
+
