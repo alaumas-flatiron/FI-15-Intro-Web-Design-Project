@@ -38,11 +38,21 @@ $(document).ready(function(){
   }); 
   
   
+  $(".submit").click(function(){
+    console.log('You got ' + score + ' out of five questions right!');
+$("#result").text(score);
+
+
+
+
+});
+		
+	});
+  
+
     
      
   
   
 
   
-  
-  });

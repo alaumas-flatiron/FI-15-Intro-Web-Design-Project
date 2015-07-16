@@ -1,12 +1,12 @@
 
-#heading {
+.header {
   text-align: center;
-  color: orange;
+  color: black;
   
 }
 
 .theQuiz  {
-  color: blue;
+  color: black;
   text-align: left;
 }
 
@@ -22,3 +22,79 @@
   height="42" 
   width="42"
 }
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+@-webkit-keyframes pulse
+#everything {
+  background-image:url("") ;
+}
+
+
+#header {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font color: blue;
+}
+
+
+
+h1	{
+	text-align: center;
+
+
+}
+
+border-style: {
+	color: #39FF14;
+}
+
+body  {
+	margin: 20px 150px;
+	background-size: http://www.wallpaperup.com/uploads/wallpapers/2014/05/19/354394/22d0710deaf998afd7ed4798fed8da77.jpg
+	text-align: center;
+   -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+}
+
+title  {
+  text-decoration: none;
+}
+
+header  {
+  text-decoration: none;
+  background-color: #cfdaee;
+  width: 1000px;
+  padding: 25px;
+  border: 5px solid navy;
+  margin: auto;
+/*   text-align: center; */
+  
+}
+
+
+
+center  {
+   width: 500px;
+   padding: 25px;
+   border: 25px green;
+   margin: 25px;
+}
+
+#column  {
+   background-color: #cfdaee;
+   width: 1000px;
+   padding: 25px;
+   border: 5px solid navy;
+   margin: auto;  
+}
+
+.end {
+  position: relative;
+}
+
+
+.submit {
+  margin: auto;
+  position: absolute;
+  margin: auto;
+}
+
