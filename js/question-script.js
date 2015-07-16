@@ -40,8 +40,13 @@ $(document).ready(function(){
   
   $(".submit").click(function(){
     console.log('You got ' + score + ' out of five questions right!');
-$("#result").text(score);
-
+    $('.end').html('You got ' + score + ' out of five questions right!');
+ 
+    if ('score' > 3) {
+      alert ('eqbrgqerglbjhgbjgr');
+    } else {
+//       play a sad gif
+    }
 
 
 

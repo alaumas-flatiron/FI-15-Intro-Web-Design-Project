@@ -11,19 +11,10 @@
   font color: blue;
 }
 
-.slider {
-  width: auto;
-  height: auto;
-  overflow-x: scroll;
-}
-.slide {
-  float: left;
-  width: auto;
-  height: auto;
-}
+
 
 body {
-  background-image:url ("https://telestrekoza.com/link-gallery/albums/Current_shows/Modern_Family/Cast/Season_1/Modern_Family_S1_003.jpg" );
+  background-image:url ("https://telestrekoza.com/link-gallery/albums/Current_shows/Modern_Family/Cast/Season_1/Modern_Family_S1_003.jpg" alt="modern family");
   background-size: 1835px 997px;
   background-repeat: no-repeat;
 }
