@@ -1,10 +1,12 @@
-#header {
-  background-color: cream;
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+#everything {
+  background-image:url("") ;
 }
 
 
-
-#heading {
+#header {
   text-align: center;
-  font-family: Didot Roman; 
+  font-family: 'Roboto', sans-serif;
+  font color: blue;
 }
