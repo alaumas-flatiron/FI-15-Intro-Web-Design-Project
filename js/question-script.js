@@ -39,14 +39,22 @@ $(document).ready(function(){
   
   
   $(".submit").click(function(){
-    console.log('You got ' + score + ' out of five questions right!');
-    $('.end').html('You got ' + score + ' out of five questions right!');
+    console.log('You got ' + score + ' out of 5 questions right!');
+    $('.end').html('You got ' + score + ' out of 5 questions right!');
  
-    if ('score' > 3) {
-      alert ('eqbrgqerglbjhgbjgr');
-    } else {
-//       play a sad gif
+    if (score < 3) {
+     
+     $('.end').html("<img src='https://media1.giphy.com/media/12pwEVqUn2n5Ti/200_s.gif'");
+      
+    ;} else {
+      
     }
+     
+     
+//      play ('https://media1.giphy.com/media/12pwEVqUn2n5Ti/200_s.gif') 
+//     } else {
+// //       play a sad gif
+//     }
 
 
 
