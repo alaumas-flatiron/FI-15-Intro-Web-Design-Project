@@ -75,3 +75,13 @@ center  {
 #mfheader{
   text-decoration:overline;
 }
+
+#img-4 {
+  height: 300px;
+  width: 500px;
+}
+
+#img-5 {
+  height: 200px;
+  width: 400px;
+}
