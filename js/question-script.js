@@ -38,9 +38,9 @@ $(document).ready(function(){
   }); 
   
   
-  $(".submit").click(function(){
+  $("#submit-button").click(function(){
     console.log('You got ' + score + ' out of 5 questions right!');
-    $('.end').html('You got ' + score + ' out of 5 questions right!');
+    $('#submit-button').html('You got ' + score + ' out of 5 questions right!');
  
     if (score < 3) {
      
