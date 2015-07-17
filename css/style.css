@@ -33,3 +33,12 @@ body {
 .btn-btn-primary-btn-lg {
   margin: auto;
 }
+
+img[alt='home'] {
+  height: 50px;
+  width: 50px;
+}
+
+#content {
+  margin: 0 auto;
+}

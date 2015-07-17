@@ -68,8 +68,8 @@ center  {
 
 .jumbotron{
   font-size: 15px;
-  margin:3px;
-  padding:5px;
+  margin: 0 auto;
+  padding:5px; 
 }
 
 #mfheader{
@@ -84,4 +84,14 @@ center  {
 #img-5 {
   height: 200px;
   width: 400px;
+}
+
+img[alt='home'] {
+  height: 50px;
+  width: 50px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 90%;
 }
